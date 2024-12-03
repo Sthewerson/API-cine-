@@ -6,3 +6,8 @@ prisma/dev.db-journal
 prisma/dev.db-journal
 
 .env
+
+*.dockerignore
+docker-compose.override.yml
+.docker/
+
